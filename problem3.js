@@ -10,7 +10,7 @@ if (number1 > number2) {
   }
 } else if (number2 > number1) {
   if (number2 > number3) {
-    console.log("number2 gratest");
+    console.log("number2 greatest");
   } else {
     console.log("number3 greatest");
   }
